@@ -1,0 +1,8 @@
+{
+  "name": "Omega International Consultants",
+  "description": "A premium tax consulting & financial advisory corporate web application featuring GST and Income Tax calculators, interactive appointment scheduling, and an AI Tax Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
